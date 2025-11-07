@@ -146,7 +146,7 @@ options[3].textContent = "D) Камера";
 
     // міняємо звук на наступне
     const mainAudio = document.getElementById("mainAudio");
-    mainAudio.src = "роботи/next question.mp3";
+    mainAudio.src = "роботи/addquestion .mp3";
     //Який пристрій використовується для керування роботом?
     mainAudio.load();
     mainAudio.play();
